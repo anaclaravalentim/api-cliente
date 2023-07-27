@@ -25,7 +25,7 @@ SECRET_KEY = '5s!8+3($cui)@6l_dy*^olxwz%ga$!&xryi*&^3xw=tir=pp_^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
